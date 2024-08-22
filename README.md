@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Harsh (@harsh-1806)<br><br>👀 I’m interested in Open Source Projects.<br>And I'm trying to do some Competitive Programming.<br><br>🌱 I’m currently learning DSA in Java from Kunal Kushwaha's(@kunal-kushwaha) playlist and Web Dev from Dave Gray's(@gitdagray) Playlist<br><br>💞️ I’m looking to collaborate on Java related projects.
+👋 Hi, I’m Harsh (@harsh-1806)<br><br>👀 I’m interested in Open Source Projects.<br>And I also do some Competitive Programming.💞️ I’m looking to collaborate on Java related projects.
 
 
 ## 🌐 Socials:
